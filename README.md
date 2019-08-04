@@ -1,2 +1,0 @@
-# JogoMaiorOuMenor
-Created with CodeSandbox
